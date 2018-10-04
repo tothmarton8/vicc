@@ -4,7 +4,7 @@ Witsz alkalmazás követelményspecifikáció
 
 2. Jelenlegi helyzet
 
-- Elromlott a vicc-gép, nincsenek viccink.
+- Elromlott a vicc-gép, nincsenek viccink
 
 3. Funkcionális követelmények
 
