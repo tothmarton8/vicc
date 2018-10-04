@@ -4,8 +4,7 @@ Witsz alkalmazás követelményspecifikáció
 A vicceket mindenki szereti. Remélhetõleg ez az alkalmazás tetszeni fog a viccet szeretõ embereknek.
 
 2. Jelenlegi helyzet
-
-- Elromlott a vicc-gép, nincsenek viccink
+Az alkalmazás készítését megkezdjük,beosszuk a munkákat.
 
 3. Funkcionális követelmények
 Lehessen rating-elni
