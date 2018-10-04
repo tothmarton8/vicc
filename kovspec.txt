@@ -8,6 +8,7 @@ A vicceket mindenki szereti. Remélhetõleg ez az alkalmazás tetszeni fog a viccet
 - Elromlott a vicc-gép, nincsenek viccink
 
 3. Funkcionális követelmények
+Képes legyen kategorizálni, egy vicc szerepelhessen több kategórában is
 
 4. Technikai követelmények
 
