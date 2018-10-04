@@ -5,6 +5,9 @@ A vicceket mindenki szereti. Remélhetõleg ez az alkalmazás tetszeni fog a viccet
 
 2. Jelenlegi helyzet
 
+- Elromlott a vicc-gép, nincsenek viccink
+
 3. Funkcionális követelmények
 
 4. Technikai követelmények
+
