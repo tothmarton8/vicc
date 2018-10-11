@@ -9,3 +9,30 @@ regisztrálni kell, majd szûrök alapján találhatsz olyan vicceket amelyek neked t
 
 3. Jelenlegi helyzet:
 A projekt rendben halad, az alkalmazást megkezdtük, csapatokat beosztottuk.
+
+4. Jelenlegi folyamatok modellje:
+Az alkalmazás kinézetének megtervezése, a regisztrációs opciók megtervezése, gombok és keresési rendszer programozása.
+
+5. Igényelt folyamatok modellje:
+Jobb esztétika létrehozása (szebb színek, képek, jobb betûméret, betûstílus), keresõ gyorsabb mûködése, felhasználobb baráti használat.  
+
+6. Követelmény lista:
+- Felhasználó barát.
+- Gyors használhatóság.
+- Egyszerû elérés.
+- Jó kinézet.
+
+7. Képernyõtervek:
+Lásd a csatolt képet.
+
+8. Adatmodell:
+
+
+9. Használati esetek:
+Esetleg társaságban, szórakozó helyen, stb. Gyorsan és könnyen meglehet találni vicceket. 
+A felhasználok maguk és feltudnak tölteni vicceket, vagy megtekinthetik a feltöltésre váró vicceket és eldönthetik, hogy tényleg viccese.
+
+
+10. Forgatókönyv:
+
+
