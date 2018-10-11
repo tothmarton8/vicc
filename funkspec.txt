@@ -25,3 +25,14 @@ Jobb esztétika létrehozása (szebb színek, képek, jobb betûméret, betûstílus), ke
 7. Képernyõtervek:
 Lásd a csatolt képet.
 
+8. Adatmodell:
+
+
+9. Használati esetek:
+Esetleg társaságban, szórakozó helyen, stb. Gyorsan és könnyen meglehet találni vicceket. 
+A felhasználok maguk és feltudnak tölteni vicceket, vagy megtekinthetik a feltöltésre váró vicceket és eldönthetik, hogy tényleg viccese.
+
+
+10. Forgatókönyv:
+
+
