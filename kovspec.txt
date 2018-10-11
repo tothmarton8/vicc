@@ -5,10 +5,11 @@ A vicceket mindenki szereti. Össze szeretnénk gyûjteni az összes viccet ami fell
 
 2. Jelenlegi helyzet
 
+
 3.Vágyálomrendszer
 A vicceket kategorizálva, regisztráció után bárki elérheti. Különbözõ szûrõk alapján lehet keresni PL.: disznóviccek,régi viccek stb. Lehessen új vicceket feltölteni, szavazni a hét viccére.
 
 4. Követelménylista
-
+Szükséges kezdõ menyiségû vicc összegyûjtése. Ezeket megfelelõen rendezni kell. Külön adatbázisba fel kell tölteni.
 
 
