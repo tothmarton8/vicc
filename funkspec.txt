@@ -16,3 +16,9 @@ Az alkalmazás kinézetének megtervezése, a regisztrációs opciók megtervezése, gom
 5. Igényelt folyamatok modellje:
 Jobb esztétika létrehozása (szebb színek, képek, jobb betûméret, betûstílus), keresõ gyorsabb mûködése, felhasználobb baráti használat.  
 
+6. Követelmény lista:
+- Felhasználó barát.
+- Gyors használhatóság.
+- Egyszerû elérés.
+- Jó kinézet.
+
