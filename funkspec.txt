@@ -1,4 +1,8 @@
 Vicc alkalmazás funkciónálisspecifikáció.
 
-1.Bevezetés:
-A vicceket mindenki szereti, így az alkalmazást minél egyszerûvé kell tenni, hogy könnyen és sokan megértsék hogyan kell használni
+1. Bevezetés:
+A vicceket mindenki szereti, így az alkalmazást minél egyszerûvé kell tenni, hogy könnyen és sokan megértsék hogyan kell használni.
+
+2. Terjedelme:
+A vicc alkalmazás célja, hogy mindenki gyorsan és edszerûen hozzáférjen viccekhez. Ezt egy könnyen kezelhetõ alkalmazással lehet elérni, melybe
+regisztrálni kell, majd szûrök alapján találhatsz olyan vicceket amelyek neked tetszenek.
