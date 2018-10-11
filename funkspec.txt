@@ -34,5 +34,8 @@ A felhasználok maguk és feltudnak tölteni vicceket, vagy megtekinthetik a feltöl
 
 
 10. Forgatókönyv:
+1) Az alkalmazás elkészítése.
+2) Tesztelése - Alfa / Béta
+3) Piacra dobása.
 
 
