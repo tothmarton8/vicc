@@ -22,3 +22,6 @@ Jobb esztétika létrehozása (szebb színek, képek, jobb betûméret, betûstílus), ke
 - Egyszerû elérés.
 - Jó kinézet.
 
+7. Képernyõtervek:
+Lásd a csatolt képet.
+
