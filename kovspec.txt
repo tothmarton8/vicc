@@ -4,7 +4,7 @@ Vicc alkalmazás követelményspecifikáció
 A vicceket mindenki szereti. Össze szeretnénk gyûjteni az összes viccet ami fellelhetõ.
 
 2. Jelenlegi helyzet
-
+Az alkalmazás készítését megkezdjük,beostjzuk a munkákat.
 
 3.Vágyálomrendszer
 A vicceket kategorizálva, regisztráció után bárki elérheti. Különbözõ szûrõk alapján lehet keresni PL.: disznóviccek,régi viccek stb. Lehessen új vicceket feltölteni, szavazni a hét viccére.
