@@ -1,14 +1,13 @@
-Witsz alkalmazás követelményspecifikáció
+Vicc alkalmazás követelményspecifikáció
 
 1. Bevezetés
-A vicceket mindenki szereti. Remélhetõleg ez az alkalmazás tetszeni fog a viccet szeretõ embereknek.
+A vicceket mindenki szereti. Össze szeretnénk gyûjteni az összes viccet ami fellelhetõ.
 
 2. Jelenlegi helyzet
-Az alkalmazás készítését megkezdjük,beosszuk a munkákat.
 
-3. Funkcionális követelmények
-Képes legyen kategorizálni, egy vicc szerepelhessen több kategórában is
-Lehessen rating-elni
+3.Vágyálomrendszer
 
-4. Technikai követelmények
+4. Funkcionális követelmények
+
+
 
