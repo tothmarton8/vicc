@@ -1,0 +1,4 @@
+Vicc alkalmazás funkciónálisspecifikáció.
+
+1.Bevezetés:
+A vicceket mindenki szereti, így az alkalmazást minél egyszerûvé kell tenni, hogy könnyen és sokan megértsék hogyan kell használni.
