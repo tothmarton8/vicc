@@ -10,6 +10,9 @@ regisztrálni kell, majd szûrök alapján találhatsz olyan vicceket amelyek neked t
 3. Jelenlegi helyzet:
 A projekt rendben halad, az alkalmazást megkezdtük, csapatokat beosztottuk.
 
-4. Jelenlegi folyamatok:
+4. Jelenlegi folyamatok modellje:
 Az alkalmazás kinézetének megtervezése, a regisztrációs opciók megtervezése, gombok és keresési rendszer programozása.
+
+5. Igényelt folyamatok modellje:
+Jobb esztétika létrehozása (szebb színek, képek, jobb betûméret, betûstílus), keresõ gyorsabb mûködése, felhasználobb baráti használat.  
 
