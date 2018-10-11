@@ -6,3 +6,6 @@ A vicceket mindenki szereti, így az alkalmazást minél egyszerûvé kell tenni, hog
 2. Terjedelme:
 A vicc alkalmazás célja, hogy mindenki gyorsan és edszerûen hozzáférjen viccekhez. Ezt egy könnyen kezelhetõ alkalmazással lehet elérni, melybe
 regisztrálni kell, majd szûrök alapján találhatsz olyan vicceket amelyek neked tetszenek.
+
+3. Jelenlegi helyzet:
+A projekt rendben halad, az alkalmazást megkezdtük, csapatokat beosztottuk.
