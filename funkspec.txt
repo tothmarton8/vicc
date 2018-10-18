@@ -26,6 +26,13 @@ Jobb esztétika létrehozása (szebb színek, képek, jobb betûméret, betûstílus), ke
 Lásd a csatolt képet.
 
 8. Adatmodell:
+Oldal --> Keresés --> Kategóriák --> Viccek
+ |
+ --> Regisztrálás --> Bejelentkezés --> vicc feltöltés.
+			   |
+		           --> Oldal / viccek értékelése.
+		           |
+		           --> Live chat.	 
 
 
 9. Használati esetek:
